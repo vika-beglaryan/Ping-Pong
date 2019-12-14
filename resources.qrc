@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.jpg</file>
+        <file>rule1.png</file>
+        <file>rule2.png</file>
+        <file>pong_mp3.mp3</file>
+    </qresource>
+</RCC>
